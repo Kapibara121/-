@@ -1,0 +1,6 @@
+<span>echo "# -" >> README.md </span><span>git init</span><span>git add README.md </span><span>git commit -m "первая фиксация"</span><span>git branch -M main</span><span>git remote add origin <span>https://github.com/Kapibara121/-.git</span></span><span>git push -u origin main</span>
+
+
+
+
+
